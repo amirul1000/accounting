@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+/* Overrides some of the default styles 
+   for widget error messages to include images
+----------------------------------------------- */
+
+.textfieldRequiredState	.textfieldRequiredMsg,	.textfieldInvalidFormatState .textfieldInvalidFormatMsg,	.textfieldMinCharsMsg, 
+.selectRequiredState 	.selectRequiredMsg, 
+.checkboxRequiredState 	.checkboxRequiredMsg,	.checkboxMaxSelectionsState	.checkboxMaxSelectionsMsg, 
+.radioRequiredState 	.radioRequiredMsg,
+.textareaRequiredState 	.textareaRequiredMsg,	.textareaMinCharsState 		.textareaMinCharsMsg,			.textareaMaxCharsState	.textareaMaxCharsMsg 
+{
+	border:0px;	
+}
+
+.validMsg
+{
+	border:0px;	
+	display:none;
+}
+
+.textfieldValidState .validMsg,
+.selectValidState .validMsg, 
+.checkboxValidState .validMsg, 
+.radioValidState .validMsg, 
+.textareaValidState .validMsg
+{
+	display:inline;
+}
+
+.textfieldRequiredState .formLabel,	.textfieldInvalidFormatState .formLabel,	.textfieldMinValueState .formLabel,	.textfieldMaxValueState .formLabel,
+   .textfieldMinCharsState .formLabel,	.textfieldMaxCharsState .formLabel, 
+.selectRequiredState .formLabel, 	.selectInvalidState .formLabel,
+.checkboxRequiredState .formLabel,	.checkboxMaxSelectionsState .formLabel,
+.radioRequiredState .formLabel,
+.textareaRequiredState .formLabel, 	.textareaMinCharsState .formLabel, .textareaMaxCharsState .formLabel
+{
+	color: #CC3333;	
+}
+
+.textfieldValidState .formLabel,
+.selectValidState .formLabel, 
+.checkboxValidState .formLabel, 
+.radioValidState .formLabel, 
+.textareaValidState .formLabel
+{
+	color:#090;	
+}

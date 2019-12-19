@@ -1,0 +1,94 @@
+.txt-wrapper3 {
+	width: 920px;
+	color: #525252;
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	font-size: 14px;
+	text-align: justify;
+	overflow: hidden;
+	background-image: url(../img/clouds.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.steps-bg {
+	float: left;
+	width: 240px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+}
+.step {
+	float: left;
+	width: 180px;
+	padding-left: 50px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	padding-right: 10px;
+	background-color: #eaeae9;
+	font-size: 13px;
+	color: #373534;
+	margin-top: 40px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.step-img {
+	float: left;
+	background-image: url(../img/step1.png);
+	background-repeat: no-repeat;
+	height: 62px;
+	width: 62px;
+	margin-top: -35px;
+	margin-left: -70px;
+}
+.step-img1 {
+	float: left;
+	background-image: url(../img/step-2.png);
+	background-repeat: no-repeat;
+	height: 62px;
+	width: 62px;
+	margin-top: -35px;
+	margin-left: -70px;
+}
+.step-img2 {
+	float: left;
+	background-image: url(../img/step-3.png);
+	background-repeat: no-repeat;
+	height: 62px;
+	width: 62px;
+	margin-top: -35px;
+	margin-left: -70px;
+}
+.step-txt {
+	width: 180px;
+	text-align: left;
+	font-size: 13px;
+}
+#work-img {
+	float: left;
+	height: 399px;
+	width: 650px;
+}
+#video-x {
+	background-color: #bdbdbd;
+	padding: 10px;
+	height: 296px;
+	width: 491px;
+	float: left;
+	margin-top: 45px;
+	margin-left: 90px;
+}
+.txt-steps-extra {
+	float: left;
+	width: 900px;
+	padding-top: 20px;
+	font-size: 14px;
+	color: #525252;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.hel-18-bold {
+	font-size: 18px;
+	font-weight: bold;
+}

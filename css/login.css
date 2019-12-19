@@ -1,0 +1,80 @@
+#left-login-bg {
+	float: left;
+	padding-top: 10px;
+	padding-left: 30px;
+	width: 625px;
+	padding-bottom: 10px;
+}
+.field-loginx {
+	float: left;
+	height: 63px;
+	width: 600px;
+	font-size: 16px;
+	color: #4e4e4e;
+	padding-top: 20px;
+}
+.field-loginx1 {
+	float: left;
+	height: 120px;
+	width: 600px;
+	font-size: 16px;
+	color: #4e4e4e;
+	padding-top: 25px;
+}
+#field-loginx2 {
+	float: left;
+	height: 120px;
+	width: 600px;
+	font-size: 12px;
+	color: #4e4e4e;
+	padding-top: 25px;
+}
+.field-loginx3 {
+	float: left;
+	height: 150px;
+	width: 600px;
+	font-size: 16px;
+	color: #4e4e4e;
+	padding-top: 25px;
+}
+.field-log {
+	height: 38px;
+	width: 350px;
+	background-image: url(../img/fields/login-field.png);
+	background-repeat: no-repeat;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	padding-left: 5px;
+	margin-top: 6px;
+	line-height: 38px;
+	font-size: 17px;
+}
+#register-free {
+	float: left;
+	width: 250px;
+	padding-left: 20px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #b9babc;
+	margin-top: 30px;
+	font-size: 16px;
+	color: #373534;
+}
+#field-loginx2 a {
+	text-decoration: none;
+	color: #09F;
+}
+.type-message {
+	background-image: url(../img/fields/message-bg.png);
+	height: 120px;
+	width: 405px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin-top: 7px;
+	padding: 5px;
+	background-repeat: no-repeat;
+}
