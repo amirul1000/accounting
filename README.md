@@ -10,7 +10,7 @@ This is double entry or 2 way entry  accounting software where when if one accou
 
 we have account table,account head table,transaction table,account year and others table.
 
-Youtube Tutorial : https://youtu.be/jev5l057vRw
+Youtube Tutorial : https://www.youtube.com/watch?v=Bu5h0e_GC1k
 
 Donate to Paypal : patabuz@gmail.com
 
