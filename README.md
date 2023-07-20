@@ -17,4 +17,3 @@ Donate to Paypal : patabuz@gmail.com
 https://www.binance.com/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00OKE6XXH8
 
 
-https://way2k.com/?ref=amirrucst
